@@ -22,3 +22,7 @@ RUN DEPENDENCY
 RUN CODE 
  
 `python main.py`
+
+OPEN ON BROWSER AND HIT
+
+`http://localhost:81/hello`
