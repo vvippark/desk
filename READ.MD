@@ -1,11 +1,14 @@
 DOWNLOAD ZIP
- `git clone https://github.com/vvippark/desk.git`
+
+`git clone https://github.com/vvippark/desk.git`
  
 ENTER INTO DIRECTORY
+
 `cd desk`
 
 CREATE ENV
- `virtualenv deskenv`
+
+`virtualenv deskenv`
 
 
 ACTIVATE env 
